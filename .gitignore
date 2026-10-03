@@ -8,3 +8,6 @@ coverage.out
 .env
 .env.*
 *.key
+lab.db*
+bin/
+server.log
