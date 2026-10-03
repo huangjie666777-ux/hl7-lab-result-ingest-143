@@ -1,0 +1,10 @@
+bin/
+data/
+tmp/
+.cache/
+*.test
+coverage.out
+*.log
+.env
+.env.*
+*.key
