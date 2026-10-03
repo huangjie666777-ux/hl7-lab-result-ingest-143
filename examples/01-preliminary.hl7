@@ -1,0 +1,6 @@
+MSH|^~\&|LIS|HOSP-A|LABARCHIVE|LAB|20261003090000||ORU^R01|MSG0001|P|2.5.1
+PID|1||P12345^^^HIS^MR||Zhang\San||19900101|M
+OBR|1||ORD-9001|CBC^Blood Routine^L|||20261003083000
+OBX|1|NM|WBC^White Blood Cell^LN||6.5|10*9/L|||||P
+OBX|2|NM|GLU^Glucose^LN||5.62|mmol/L|||||P
+OBX|3|ST|RBC-CMT^Morphology Comment^L||Mild anisocytosis\T\ poikilocytosis||||||P
